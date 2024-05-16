@@ -1,16 +1,25 @@
-# Hi there 👋
+## Robert Valero
 
-<!--
-**robvalero/Robvalero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+👋 Hi, I'm Robert Valero, a passionate web developer with a knack for building dynamic and responsive web applications. With a solid foundation in both front-end and back-end technologies, I strive to deliver seamless user experiences and robust functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills and Technologies
+
+- HTML, CSS, JavaScript, React, Vue.js
+- Version Control:** Git, GitHub
+    
+
+### 🎓 Education
+
+
+### 🌐 Find Me Online
+
+- [GitHub](https://github.com/robvalero)
+
+
+
+### 💬 Let's Connect!
+
+Feel free to reach out if you want to discuss web development, open source projects, or any exciting tech opportunities.
+
