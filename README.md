@@ -6,8 +6,7 @@
 
 ### 🚀 Skills and Technologies
 
-- HTML, CSS, JavaScript, React, Vue.js
-- Version Control:** Git, GitHub
+- HTML, CSS, JavaScript, figma
     
 
 ### 🎓 Education
