@@ -1,15 +1,16 @@
 ## Robert Valero
 
-### Web Developer | Open Source Enthusiast
+### Web Developer |
 
-👋 Hi, I'm Robert Valero, a passionate web developer with a knack for building dynamic and responsive web applications. With a solid foundation in both front-end and back-end technologies, I strive to deliver seamless user experiences and robust functionality.
+👋 Hi, I'm Robert Valero, a passionate web developer with a passion and dedication for building dynamic and responsive web applications. Always with atention to detial mindset and with a solid foundation in front-end technologies, I strive to deliver seamless user experiences and robust functionality.
 
 ### 🚀 Skills and Technologies
 
-- HTML, CSS, JavaScript, figma
+- HTML, CSS, JavaScript, figma, Block chain technologies, 
     
 
 ### 🎓 Education
+Web developer Bootcamp
 
 
 ### 🌐 Find Me Online
