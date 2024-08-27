@@ -2,7 +2,7 @@
 
 ### Web Developer |
 
-👋 Hi, I'm Robert Valero, a web developer and designer with lots of passion for technology, I'm very dedication when building dynamic and responsive web applications. Always with atention to detail mindset and with a solid foundation in front-end technologies, I strive to deliver seamless user experiences and robust functionality.
+👋 Hi, I'm Robert Valero, a web developer and designer with lots of passion for technology, I'm very dedicated when building dynamic and responsive web applications, with atention to detail mindset and with a solid foundation in front-end technologies, I strive to deliver seamless user experiences and robust functionality.
 
 ### 🚀 Skills and Technologies
 
