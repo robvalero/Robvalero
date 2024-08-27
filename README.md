@@ -6,7 +6,7 @@
 
 ### 🚀 Skills and Technologies
 
-- HTML, CSS, JavaScript, figma, Block chain technologies, 
+- HTML, CSS, JavaScript, Figma, Block chain technologies, 
     
 
 ### 🎓 Education
