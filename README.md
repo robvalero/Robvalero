@@ -2,13 +2,13 @@
 
 ## Hi there👋 I'm Robert
 
-I'm a web developer and designer with lots of passion for technology, I'm very dedicated when building dynamic and responsive web applications, with attention to detail mindset and with a solid foundation in front-end technologies, I strive to deliver seamless user experiences and robust functionality to the projects I work with!
+I'm a web developer and designer with lots of passion for technology, I'm very dedicated when building dynamic and semi dynamic websites, I create websites with responsive layouts and mobile friendly web applications, with attention to detail mindset and with a solid foundation in front-end technologies, I strive to deliver seamless user experiences and robust functionality to the projects I work with!
 
 ### 🚀 Skills and Technologies
 
-HTML5 | CSS3 | JavaScript | Figma | Block-chain technologies | Agile | Web Design | Web Front-end development
-    
+HTML5 | CSS3 | JavaScript | Figma | Block-chain technologies | Agile | Web Design | Web Front-end development | Creative | Audio Integration
 
+    
 ### 🎓 Education
 Web developer Bootcamp
 
