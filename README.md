@@ -6,7 +6,7 @@ I'm a web developer and designer with lots of passion for technology, I'm very d
 
 ### 🚀 Skills and Technologies
 
-HTML5 | CSS3 | JavaScript | Figma | Block-chain technologies | Agile | Web Design | Web Front-end development | Creative | Audio Integration
+HTML5 | CSS3 | JavaScript | Figma | Block-chain technologies | Agile | Web Design | Web Front-end development | Creative | Sound Design and Audio Integration |
 
     
 ### 🎓 Education
