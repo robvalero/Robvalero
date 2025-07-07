@@ -2,7 +2,7 @@
 
 ## Hi there👋 I'm Robert
 
-I'm a digital designer and web developer with lots of passion for technology, I'm very dedicated when building websites, I create websites with responsive layouts and mobile friendly web applications, with attention to detail mindset and with a solid foundation in front-end technologies, I strive to deliver seamless user experiences and robust functionality to the projects I work with!
+I'm a digital designer and web developer with lots of passion for technology, I'm very dedicated when building websites. I create websites with responsive layouts and mobile friendly web applications, with attention to detail mindset and with a solid foundation in front-end technologies, I strive to deliver seamless user experiences and robust functionality to the projects I work with!
 
 ### 🚀 Skills and Technologies
 
